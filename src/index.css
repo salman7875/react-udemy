@@ -13,3 +13,16 @@ body {
   background-color: #3f3f3f;
 }
 
+.loading-text {
+  color: black;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.6rem;
+}
+
+.error-text {
+  color: red;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.6rem;
+}
